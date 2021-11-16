@@ -18,10 +18,10 @@
 <div>
 <img height= '180em' src='https://github-readme-stats.vercel.app/api?username=lucasgiura&show_icons=true&theme=nightowl'>
 <img height= '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiura&layout=compact&theme=nightowl'>
-</div> <br>
+</div> 
 
- ## Connect with me:
-<div style='display: inline_block' margin-top: 5px' > <br>
-<img align= 'center' width='40px' alt= 'instagram' src='https://cdn-icons-png.flaticon.com/128/1077/1077042.png'>
-<img align= 'center' width='40px' alt= 'linkedin' src='https://cdn-icons-png.flaticon.com/128/61/61109.png'>
+ ### Connect with me:
+<div style='display: inline_block' > 
+<img align= 'center' width='30px' alt= 'instagram' src='https://cdn-icons-png.flaticon.com/128/1077/1077042.png'>
+<img align= 'center' width='30px' alt= 'linkedin' src='https://cdn-icons-png.flaticon.com/128/61/61109.png'>
 </div> <br>
