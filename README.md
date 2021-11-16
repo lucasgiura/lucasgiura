@@ -1,4 +1,4 @@
-## Hello! I'm Lucas 
+## Hello! I'm Lucas ✋
 
 ### I'm web developer student! 
  - 🌱 I'm currently learning fundaments of web development.
@@ -9,9 +9,9 @@
 ## Languages and Tools:
 
 <div style='display: inline_block'> 
-    <img align= 'center' width = '30px' alt='html5'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
-     <img align= 'center' width='30px' alt='CSS'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
-      <img align= 'center' width= '30px' alt='JavaScript'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
+    <img align= 'center' width = '40px' alt='html5'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'/>
+     <img align= 'center' width='40px' alt='CSS'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'/>
+      <img align= 'center' width= '40px' alt='JavaScript'  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'/>
 </div>
 <br>
 
