@@ -16,8 +16,8 @@
 <br>
 
 <div>
-<img height= '180em' src='https://github-readme-stats.vercel.app/api?username=lucasgiura&show_icons=true&theme=nightowl'>
-<img height= '180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiura&layout=compact&theme=nightowl'>
+<img height= '170em' src='https://github-readme-stats.vercel.app/api?username=lucasgiura&show_icons=true&theme=nightowl'>
+<img height= '170em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgiura&layout=compact&theme=nightowl'>
 </div> 
 
  ### Connect with me:
